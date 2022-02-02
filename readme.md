@@ -64,3 +64,4 @@ The installer will tell you to run one more command. Execute it.
 
 Test  
 
+For more detailed instructions on setting up the Huskies for use in the robotic swarm described here, look at HuskySetupInstructions.md in this repository.
